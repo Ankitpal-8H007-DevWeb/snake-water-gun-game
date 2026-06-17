@@ -3,7 +3,7 @@
 import random
 
 print ("Snake Water Gun game:")
-print("choose:\n s for snake,\n w for water, \n g for gun")
+print("choose:\n s for snake,\n w for water,\n g for gun")
 
 user = input("Enter your choice:")
 
